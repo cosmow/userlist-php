@@ -1,5 +1,5 @@
 {
-    "name": "cosmow/userlist",
+    "name": "cosmomedia/userlist",
     "description": "PHP wrapper for the Userlist API",
     "type": "library",
     "require-dev": {
