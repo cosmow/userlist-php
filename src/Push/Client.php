@@ -22,6 +22,11 @@ class Client
         $this->request('POST', $endpoint, $payload);
     }
 
+    public function delete($endpoint, $payload = [])
+    {
+        $this->request('DELETE', $endpoint, $payload);
+    }
+
     private function request($method, $endpoint, $payload = [])
     {
         $options = [
