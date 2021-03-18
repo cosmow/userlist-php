@@ -1,5 +1,5 @@
 {
-    "name": "userlist/userlist",
+    "name": "cosmow/userlist",
     "description": "PHP wrapper for the Userlist API",
     "type": "library",
     "require-dev": {
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Benedikt Deicke",
-            "email": "benedikt@userlist.com"
+            "name": "Alejandro Pedrosa",
+            "email": "alejandro.pedrosa@cosmomedia.es"
         }
     ],
     "require": {
